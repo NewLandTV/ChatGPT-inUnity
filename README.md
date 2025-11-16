@@ -2,6 +2,8 @@
 
 I will be building Unity together with ChatGPT.
 
+[![Development Note p.353](https://img.youtube.com/vi/CKesVorRE28/0.jpg)](https://www.youtube.com/watch?v=CKesVorRE28)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
